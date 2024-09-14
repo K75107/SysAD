@@ -1,0 +1,13 @@
+** Install xampp
+** Open xampp and start apache and mysql
+** Search in browser http://localhost/phpmyadmin/
+    Create new database named "crudapp"
+    Create table with 4 columns
+        firstname VARCHAR (30)
+        lastname VARCHAR (30)
+        email VARCHAR (30)
+        password VARCHAR (255)
+
+**copy this folder in C:\xampp\htdocs
+**go to http://localhost/crudadd
+
